@@ -1,0 +1,9 @@
+.group-by {
+  display: inline-block;
+  width: auto;
+  margin-left: 1rem;
+}
+
+.highlight {
+  background-color: rgb(255, 255, 172);
+}
